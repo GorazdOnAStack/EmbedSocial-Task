@@ -1,2 +1,2 @@
 # EmbedSocial-Task
-Frontend Inrenship task
+Frontend Internship task
